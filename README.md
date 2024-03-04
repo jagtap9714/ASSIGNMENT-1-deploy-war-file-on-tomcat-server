@@ -9,5 +9,6 @@ This is the home page for a sample application used to illustrate the source dir
 To prove that they work, you can execute either of the following links:
 
 To a JSP page.
+
 To a servlet.
 
